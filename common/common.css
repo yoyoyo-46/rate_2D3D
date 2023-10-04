@@ -459,7 +459,10 @@ footer a:hover{
 }
 
 .footer-center{
-	width:200px;
+	background-size:contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	height:50px;
 	margin:0 auto;
 	clear:left;
 	background-image:url(https://yoyoyo-46.github.io/rate_2D3D/common/img/footer_bg.png);
