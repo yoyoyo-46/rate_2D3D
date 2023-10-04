@@ -182,15 +182,15 @@ header{
 	padding:9px 0px;
 }
 
-.G2D:hover{
+.Model:hover{
 	border-bottom:3px solid #9a4fe9;
 }
 
-.G3D:hover{
+.Video:hover{
 	border-bottom:3px solid #49ba80;
 }
 
-.A2D:hover{
+.Game:hover{
 	border-bottom:3px solid #274eb1;
 }
 
@@ -293,19 +293,19 @@ article{
 	color:#000;
 }
 
-.g2d{
+.model{
 	background-color:#efdfff;
 	border-color:#9a4fe9;
 	color:#9a4fe9;
 }
 
-.g3d{
+.video{
 	background-color:#afffd6;
 	border-color:#49ba80;
 	color:#49ba80;
 }
 
-.a2d{
+.game{
 	background-color:#b9caf6;
 	border-color:#274eb1;
 	color:#274eb1;
