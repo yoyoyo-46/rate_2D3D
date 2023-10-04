@@ -13,7 +13,6 @@ function footer(){
   html += '<a href="https://yoyoyo-46.github.io/rate_2D3D/footer/profile/profile.html">プロフィール</a>';
   html += '</div>';
   html += '<div class="footer-center">';
-  html += 'らてのサイト';
   html += '</div>';
   html += '</div>';
   html += '</footer>';
