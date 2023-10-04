@@ -1,0 +1,28 @@
+.top-wrapper{
+	padding-bottom:100px;
+}
+
+.top-g2d{
+	color:#efdfff;
+	background-color:#9a4fe9;
+}
+
+.top-g3d{
+	color:#afffd6;
+	background-color:#49ba80;
+}
+
+.top-a2d{
+	color:#b9caf6;
+	background-color:#274eb1;
+}
+
+.top-a3d{
+	color:#e0c79c;
+	background-color:#9d793c;
+}
+
+.top-other{
+	color:#fbb2c0;
+	background-color:#e23254;
+}
