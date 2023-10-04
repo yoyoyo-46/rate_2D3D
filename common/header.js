@@ -5,10 +5,6 @@ function header(){
   html += '<div class="header-left">';
   html += '<a href="https://yoyoyo-46.github.io/rate_2D3D/"><img src="https://yoyoyo-46.github.io/rate_2D3D/common/img/rate_home.png"></a>';
   html += '</div>';
-  html += '<div class="header-center">';
-  html += '<script  type="text/javascript" src="https://yoyoyo-46.github.io/rate_2D3D/common/ad.js"></script>';
-  html += '<script type="text/javascript">horizontal_short();</script>';
-  html += '</div>';
   html += '<div class="header-right">';
   html += '<a href="https://timeline.line.me/social-plugin/share?url=https://yoyoyo-46.github.io/rate_2D3D/index.html"><img src="https://yoyoyo-46.github.io/rate_2D3D/common/img/line.jpg" class="line"></a>';
   html += '<a href="https://twitter.com/intent/tweet?url=https://yoyoyo-46.github.io/rate_2D3D/index.html&via=rate_2D3D&hashtags=らて"><img src="https://yoyoyo-46.github.io/rate_2D3D/common/img/twitter.jpg" class="twitter"></a>';
