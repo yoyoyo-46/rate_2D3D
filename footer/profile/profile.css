@@ -1,0 +1,156 @@
+p{
+	line-height:160%;
+	margin:10px 0px;
+	color:#333;
+	font-size:16px;
+}
+
+.profile-wrapper{
+	padding:160px 0px;
+  background-color:rgb(154, 205, 213);
+  color:#fff;
+}
+
+.rate-wrapper{
+	width:80%;
+  margin:100px auto;
+}
+
+.rate-wrapper img{
+  width: 10%;
+  height: auto;
+  border: solid 5px #d7ebfe;
+  border-radius: 50%;
+}
+
+.upa-wrapper{
+	width:80%;
+  margin:100px auto;
+}
+
+.upa-wrapper img{
+  width: 10%;
+  height: auto;
+  border: solid 5px #fad6fe;
+  border-radius: 50%;
+}
+
+
+.conv-left {
+  width: 50%;
+  margin: 1.5em auto;
+  overflow: hidden;
+}
+
+.conv-left .faceicon {
+  float: left;
+  margin-right: -90px;
+  width: 80px;
+}
+
+.conv-left .faceicon img{
+  width: 100%;
+  height: auto;
+  border: solid 3px #d7ebfe;
+  border-radius: 50%;
+}
+
+.conv-left .chatting {
+  width: 100%;
+}
+
+.conv-left .says {
+  display: inline-block;
+  position: relative;
+  margin: 5px 0 0 105px;
+  padding: 17px 13px;
+  border-radius: 12px;
+  background: #d7ebfe;
+}
+
+.conv-left .says:after {
+  content: "";
+  display: inline-block;
+  position: absolute;
+  top: 18px;
+  left: -24px;
+  border: 12px solid transparent;
+  border-right: 12px solid #d7ebfe;
+}
+
+.conv-left .says p {
+  margin: 0;
+  padding: 0;
+}
+
+.conv-right {
+  width: 50%;
+  margin: 1.5em auto;
+  overflow: hidden;
+}
+
+.conv-right .faceicon {
+  float: right;
+  margin-left: -90px;
+  width: 80px;
+}
+
+.conv-right .faceicon img{
+  width: 100%;
+  height: auto;
+  border: solid 3px #fad6fe;
+  border-radius: 50%;
+}
+
+.conv-right .chatting {
+  width: 100%;
+}
+
+.conv-right .says {
+	float: right;
+  display: inline-block;
+  position: relative;
+  margin: 5px 105px 0 0;
+  padding: 17px 13px;
+  border-radius: 12px;
+  background: #fad6fe;
+}
+
+.conv-right .says:after {
+  content: "";
+  display: inline-block;
+  position: absolute;
+  top: 18px;
+  right: -24px;
+  border: 12px solid transparent;
+  border-left: 12px solid #fad6fe;
+}
+
+.conv-right .says p {
+  margin: 0;
+  padding: 0;
+}
+
+.jump{
+  padding-top: 60px;
+  margin-top: -60px;
+}
+
+@media(max-width:959px){
+
+	.rate-wrapper img{
+		width: 50%;
+	}
+
+	.upa-wrapper img{
+		width: 50%;
+	}
+
+	.conv-left {
+	  width: 100%;
+	}
+
+	.conv-right {
+	  width: 100%;
+	}
+}
