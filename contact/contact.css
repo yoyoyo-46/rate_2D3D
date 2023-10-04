@@ -1,25 +1,3 @@
 .top-wrapper{
   background-color:rgb(154, 205, 213);
 }
-
-.twitter-wrapper{
-	padding:160px 0px;
-  background-color:#f6f6f6;
-}
-
-.rate_twitter{
-  	display:block;
-  	width:50%;
-  	margin:auto;
-  	margin-top:50px;
-  	padding:10px;
-    border-radius:.25em;
-  	background-color:#00acee;
-  	color:#fff;
-    text-align:center;
-  	transition: 0.3s;
-}
-
-.rate_twitter:hover{
-	background-color:#0ebbd7;
-}

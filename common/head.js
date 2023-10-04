@@ -10,7 +10,7 @@ function head(){
   html += "</script>";
   html += '<meta charset="utf-8">';
   html += '<meta name="viewport" content="width=device-width, initial-scale=1.0">';
-  html += '<meta property="og:site_name" content="らてオフィシャルサイト" />';
+  html += '<meta property="og:site_name" content="らてのサイト" />';
   html += '<meta name="twitter:site" content="@rate_2D3D" />';
   html += '<meta name=“twitter:creator” content=“@rate_2D3D />';
   html += '<link rel="shortcut icon" href="https://yoyoyo-46.github.io/rate_2D3D/common/img/favicon.ico" type="image/x-icon">';
