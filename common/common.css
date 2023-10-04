@@ -449,11 +449,6 @@ footer{
 	float:left;
 }
 
-.footer-right{
-	width:200px;
-	float:right;
-}
-
 footer a{
 	display:block;
 	margin-top:10px;
@@ -467,7 +462,6 @@ footer a:hover{
 	width:200px;
 	margin:0 auto;
 	clear:left;
-	background-image:url(https://yoyoyo-46.github.io/rate_2D3D/nav/other/unity_vroid/img/footer_bg.png);
 }
 
 .twitter-wrapper{

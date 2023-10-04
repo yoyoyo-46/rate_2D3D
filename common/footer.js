@@ -9,13 +9,11 @@ function footer(){
   html += '<footer>';
   html += '<div class="container">';
   html += '<div class="footer-left">';
-  html += 'らてのサイト';
-  html += '</div>';
-  html += '<div class="footer-center">';
-  html += '</div>';
-  html += '<div class="footer-right">';
   html += '<a href="https://yoyoyo-46.github.io/rate_2D3D/footer/privacy.html">プライバシーポリシー</a>';
   html += '<a href="https://yoyoyo-46.github.io/rate_2D3D/footer/profile/profile.html">プロフィール</a>';
+  html += '</div>';
+  html += '<div class="footer-center">';
+  html += 'らてのサイト';
   html += '</div>';
   html += '</div>';
   html += '</footer>';
