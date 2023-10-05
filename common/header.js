@@ -24,8 +24,8 @@ function nav(){
   var html = "";
   html += '<nav class=nav1 id="nav">';
   html += '<div class="container">';
-  html += '<a href="https://yoyoyo-46.github.io/rate_2D3D/nav/model/model.html" class="Model">Model</a>';
-  html += '<a href="https://yoyoyo-46.github.io/rate_2D3D/nav/video/video.html" class="Video">Video</a>';
+  html += '<a href="https://yoyoyo-46.github.io/rate_2D3D/nav/model/model.html" class="3d Model">Model</a>';
+  html += '<a href="https://yoyoyo-46.github.io/rate_2D3D/nav/video/video.html" class="Cg Video">Video</a>';
   html += '<a href="https://yoyoyo-46.github.io/rate_2D3D/nav/game/game.html" class="Game">Game</a>';
   html += '<a href="https://yoyoyo-46.github.io/rate_2D3D/nav/other/other.html" class="Other">Other</a>';
   html += '</div>';
