@@ -440,8 +440,9 @@ footer{
 	padding-top:20px;
 	height:130px;
 	text-align:center;
-	background-color:#f6f6f6;
+	background-color:#000;
 	clear:left;
+	color:#fff;
 }
 
 .footer-left{
