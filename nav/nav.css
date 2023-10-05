@@ -1,0 +1,23 @@
+.top-wrapper{
+	padding-bottom:100px;
+}
+
+.top-model{
+	color:#efdfff;
+	background-color:#9a4fe9;
+}
+
+.top-video{
+	color:#afffd6;
+	background-color:#49ba80;
+}
+
+.top-game{
+	color:#b9caf6;
+	background-color:#274eb1;
+}
+
+.top-other{
+	color:#fbb2c0;
+	background-color:#e23254;
+}
