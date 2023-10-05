@@ -79,11 +79,19 @@
     margin:5px 0px;
   }
 
+  .footer-left{
+  	font-size:13px;
+  }
+
+  .footer-center{
+  	background-image:url(https://yoyoyo-46.github.io/rate_2D3D/common/img/footer_bg_mini.png);
+  }
+
   .rate_twitter{
-  	width:80%;
+  	width:100%;
   }
 
   .rate_youtube{
-  	width:80%;
+  	width:100%;
   }
 }

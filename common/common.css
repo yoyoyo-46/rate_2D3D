@@ -444,9 +444,9 @@ footer{
 }
 
 .footer-left{
-	margin-top:10px;
 	width:200px;
 	float:left;
+	font-size:13px;
 }
 
 footer a{
