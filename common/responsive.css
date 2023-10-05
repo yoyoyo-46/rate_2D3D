@@ -74,4 +74,16 @@
 	.clear_959{
 		clear:left;
 	}
+
+  .breadcrumb {
+    margin:5px 0px;
+  }
+
+  .rate_twitter{
+  	width:80%;
+  }
+
+  .rate_youtube{
+  	width:80%;
+  }
 }
